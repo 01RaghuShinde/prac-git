@@ -1,2 +1,4 @@
 Phone 
 sim card
+Cover
+Screen lock
